@@ -10,7 +10,7 @@ Hi I'm Sebastian Noguera better known as Wiar8 I'm 14 years old and I'm a progra
 * 🖥️  See my portfolio at [wiar8.com](http://https://wiar8.com/)
 * ✉️  You can contact me at [master@wiar8.com](mailto:master@wiar8.com)
 * 🤝  I'm open to collaborating on interesting projects
-* ⚡  Fun fact: I like turtles
+* ⚡  Fun fact: I like turtles 🐢
 
 ## Skills
 
