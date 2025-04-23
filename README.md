@@ -4,7 +4,7 @@ Hi 👋 My name is Sebastian Noguera
 Web Developer
 -------------
 
-Hi I'm Sebastian Noguera better known as Wiar8 I'm 16 years old and I'm a programmer, I started programming when I was 5 years old, at 6 I really liked programming and at 8 I was already completely immersed in this world. I love everything related to technology and I'm a fan of mathematics and physics.
+Hi I'm Sebastian Noguera better known as Wiar8 I'm 17 years old and I'm a programmer, I started programming when I was 5 years old, at 6 I really liked programming and at 8 I was already completely immersed in this world. I love everything related to technology and I'm a fan of mathematics and physics.
 
 * 🌍  I'm based in Venezuela
 * 🖥️  See my portfolio at [wiar8.com](http://https://wiar8.com/)
